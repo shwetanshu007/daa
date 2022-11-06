@@ -1,0 +1,16 @@
+h1{
+    font-size:70 ;
+    color: beige;
+}
+body{
+    background-color: rgb(197, 179, 215);
+}
+
+#test
+{
+    border:  2px dotted black;
+    /* padding 50px*/
+    margin-left: 10px;
+    padding: 100px ;
+    background: rgb(30, 173, 61);
+}
